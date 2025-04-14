@@ -108,7 +108,7 @@ Why should we use Kubernetes? "Kubernetes is a portable, extensible, open-source
 
 ### Kubernetes Architecture  <a name="architecture"></a>
 
-![image](https://user-images.githubusercontent.com/10358317/146250114-18759a06-e6a6-4554-bc7f-b23a13534f77.png)
+![k8s-architecture](https://github.com/user-attachments/assets/b1df29cc-2fb9-44a6-ad57-c194a8f14f8c)
 
 ### Kubernetes Components <a name="components"></a> (Ref: Kubernetes.io)
 - **Control Plane:** User enters commands and configuration files from control plane. It controls all cluster.
